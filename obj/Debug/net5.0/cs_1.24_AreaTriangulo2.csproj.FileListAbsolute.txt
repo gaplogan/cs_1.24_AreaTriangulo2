@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\cs_1.24_AreaTriangulo2.exe
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\cs_1.24_AreaTriangulo2.deps.json
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\cs_1.24_AreaTriangulo2.runtimeconfig.json
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\cs_1.24_AreaTriangulo2.runtimeconfig.dev.json
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\cs_1.24_AreaTriangulo2.dll
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\ref\cs_1.24_AreaTriangulo2.dll
+E:\GitHub\cs_1.24_AreaTriangulo2\bin\Debug\net5.0\cs_1.24_AreaTriangulo2.pdb
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.csprojAssemblyReference.cache
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.AssemblyInfo.cs
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.dll
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\ref\cs_1.24_AreaTriangulo2.dll
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.pdb
+E:\GitHub\cs_1.24_AreaTriangulo2\obj\Debug\net5.0\cs_1.24_AreaTriangulo2.genruntimeconfig.cache
